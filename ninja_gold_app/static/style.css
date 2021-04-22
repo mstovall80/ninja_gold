@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* outline: 1px dashed red; */
+}
+
+.container{
+    height: 130px;
+    width: 150px;
+}
+
+#activities{
+    max-height: 250px;
+    overflow: auto;
+}
